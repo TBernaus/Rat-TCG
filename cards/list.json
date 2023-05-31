@@ -14,21 +14,6 @@
         ],
         "poder": 1,
         "vida": 1
-    },{
-        "titol": "Papallona Vident",
-        "mana": "F",
-        "imatge": "Papallona_Vident.png",
-        "tipus": "Criatura",
-        "faccio": [
-            "Furry",
-            "Papallona"
-        ],
-        "efecte": [
-            "Vola",
-            "Encerta 2"
-        ],
-        "poder": 1,
-        "vida": 1
     },
     {
         "titol": "Papallona Lladre",
