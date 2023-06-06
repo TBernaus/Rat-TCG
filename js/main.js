@@ -1,7 +1,7 @@
+
 fetch('../cards/list.json')
     .then(response => response.json())
     .then(data => {
-        // Aquí puedes trabajar con los datos JSON
         console.log(data);
         for (const carta in data) {
             if (data.hasOwnProperty(carta)) {
